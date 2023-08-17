@@ -81,16 +81,16 @@
   "Attendance": [
     {
       "StudentId": 101, 
-      1-12-23: "true"
+     "1-12-23": "true"
       
     },
     {
       "StudentId": 102,
-      1-12-23: "false"
+      "1-12-23": "false"
     },
     {
       "StudentId": 103,
-      1-12-23: "true"
+      "1-12-23": "true"
     }
   ]
 }
