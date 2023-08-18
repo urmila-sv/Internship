@@ -78,7 +78,7 @@
       "EmailAddress": "dheeraj@gmail.com"
     }
   ],
-  "Attendance": [StudentId integer, Year integer,7
+  "Attendance":[
     {
       "StudentId": 101, 
      "1-12-23": "true"
