@@ -78,7 +78,7 @@
       "EmailAddress": "dheeraj@gmail.com"
     }
   ],
-  "Attendance": [
+  "Attendance": [StudentId integer, Year integer,7
     {
       "StudentId": 101, 
      "1-12-23": "true"
@@ -174,7 +174,7 @@
     },
     {
       "StudentId": 106,
-      "4-12-23": "true"
+      "4-12-23": "false"
     },
     {
       "StudentId": 101,
@@ -182,7 +182,7 @@
     },
     {
       "StudentId": 102,
-      "5-12-23": "true"
+      "5-12-23": "false"
     },
     {
       "StudentId": 103,
@@ -200,7 +200,7 @@
       "StudentId": 106,
       "5-12-23": "true"
     },
-    {
+   {
       "StudentId": 101,
       "6-12-23": "true"
     },
@@ -883,7 +883,8 @@
      {
       "StudentId": 106,
       "31-12-23": "true"
-    },  
+    },
+ 
   ]
 }
     
